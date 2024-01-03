@@ -1,0 +1,18 @@
+[Desktop Entry]
+DefaultProfile=Main.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[TabBar]
+ExpandTabWidth=true
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
