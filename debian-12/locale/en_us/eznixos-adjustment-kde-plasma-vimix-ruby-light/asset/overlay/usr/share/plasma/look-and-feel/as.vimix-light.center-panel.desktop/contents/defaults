@@ -26,7 +26,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Vimix-Ruby
+theme=__aurorae__svg__Vimix-Light
 
 [KSplash]
 Theme=com.github.vinceliuice.Vimix-Light-Ruby
