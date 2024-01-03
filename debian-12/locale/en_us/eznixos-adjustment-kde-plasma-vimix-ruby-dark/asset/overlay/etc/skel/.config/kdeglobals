@@ -1,7 +1,7 @@
 
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=OrchisDark
+ColorScheme=VimixDarkRuby
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
@@ -10,10 +10,10 @@ smallestReadableFont=Sans Serif,10,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=Papirus-Dark
+Theme=Numix-Circle
 
 [KDE]
-LookAndFeelPackage=as.orchis-dark.center-panel.desktop
+LookAndFeelPackage=as.vimix-dark.center-panel.desktop
 ShowDeleteCommand=true
 SingleClick=false
 widgetStyle=kvantum-dark
