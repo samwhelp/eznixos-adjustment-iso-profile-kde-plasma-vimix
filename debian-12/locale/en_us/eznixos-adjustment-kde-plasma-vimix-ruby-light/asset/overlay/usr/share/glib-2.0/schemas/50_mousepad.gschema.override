@@ -3,7 +3,7 @@ add-last-end-of-line=true
 
 [org.xfce.mousepad.preferences.view]
 auto-indent=true
-color-scheme='oblivion'
+color-scheme='solarized-light'
 font-name='Monospace 16'
 highlight-current-line=true
 match-braces=true
