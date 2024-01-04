@@ -1,0 +1,71 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "basic-developer@home.org",
+                "Name": "Basic Developer"
+            },
+            {
+                "Email": "home-developer@home.org",
+                "Name": "Home Developer"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "org.basic.desktop.CenterPanel",
+        "License": "MIT",
+        "Name": "Basic Center Panel",
+        "Name[bs]": "Basic Podrazumijevani panel",
+        "Name[ca@valencia]": "Basic Plafó per omissió",
+        "Name[ca]": "Basic Plafó per omissió",
+        "Name[cs]": "Basic Výchozí panel",
+        "Name[da]": "Basic Standardpanel",
+        "Name[de]": "Basic Standard-Kontrollleiste",
+        "Name[el]": "Basic Προκαθορισμένος πίνακας",
+        "Name[en_GB]": "Basic Default Panel",
+        "Name[es]": "Basic Panel por omisión",
+        "Name[et]": "Basic Vaikimisi paneel",
+        "Name[eu]": "Basic Panel lehenetsia",
+        "Name[fi]": "Basic Oletuspaneeli",
+        "Name[fr]": "Basic Tableau de bord par défaut",
+        "Name[gl]": "Basic Panel predeterminado",
+        "Name[hu]": "Basic Alapértelmezett panel",
+        "Name[id]": "Basic Panel Baku",
+        "Name[is]": "Basic Sjálfgefið spjald",
+        "Name[it]": "Basic Pannello predefinito",
+        "Name[ja]": "Basic 標準のパネル",
+        "Name[ko]": "Basic 기본 패널",
+        "Name[lt]": "Basic Numatytas skydelis",
+        "Name[nb]": "Basic Standardpanel",
+        "Name[nds]": "Basic Standardpaneel",
+        "Name[nl]": "Basic Standaard paneel",
+        "Name[nn]": "Basic Standardpanel",
+        "Name[pl]": "Basic Domyślny panel",
+        "Name[pt]": "Basic Painel Predefinido",
+        "Name[pt_BR]": "Basic Painel padrão",
+        "Name[ru]": "Basic Стандартная панель",
+        "Name[sk]": "Basic Štandardný panel",
+        "Name[sl]": "Basic Privzeti pult",
+        "Name[sr@ijekavian]": "Basic Подразумијевани панел",
+        "Name[sr@ijekavianlatin]": "Basic Podrazumijevani panel",
+        "Name[sr@latin]": "Basic Podrazumevani panel",
+        "Name[sr]": "Basic Подразумевани панел",
+        "Name[sv]": "Basic Standardpanel",
+        "Name[tr]": "Basic Öntanımlı Pano",
+        "Name[uk]": "Basic Типова панель",
+        "Name[x-test]": "xxBasic Default Panelxx",
+        "Name[zh_CN]": "Basic 默认面板",
+        "Name[zh_TW]": "Basic 預設面板",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/samwhelp/note-about-kde/"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}
