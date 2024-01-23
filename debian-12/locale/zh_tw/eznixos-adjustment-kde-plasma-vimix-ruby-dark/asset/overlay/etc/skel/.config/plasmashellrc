@@ -4,6 +4,7 @@ PreloadWeight=42
 [PlasmaViews][Panel 2]
 alignment=132
 floating=1
+panelLengthMode=1
 panelOpacity=2
 
 [PlasmaViews][Panel 2][Defaults]

@@ -13,6 +13,7 @@ ToolButtonStyle=IconOnly
 
 [TabBar]
 ExpandTabWidth=true
+TabBarPosition=Bottom
 
 [Toolbar mainToolBar]
 ToolButtonStyle=IconOnly

@@ -52,6 +52,12 @@ diminactiveEnabled=true
 kwin4_effect_translucencyEnabled=true
 wobblywindowsEnabled=true
 
+[TabBox]
+LayoutName=MediumDefault
+
+[TabBoxAlternative]
+LayoutName=MediumRounded
+
 [Windows]
 Placement=Centered
 RollOverDesktops=true
