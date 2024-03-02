@@ -18,6 +18,11 @@
 kde-standard
 
 
+#kwin-wayland
+kwin-x11
+kwin-addons
+
+
 konsole
 yakuake
 dolphin
