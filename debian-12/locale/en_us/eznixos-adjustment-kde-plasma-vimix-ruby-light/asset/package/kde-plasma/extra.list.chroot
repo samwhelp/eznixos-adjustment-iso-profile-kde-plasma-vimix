@@ -92,13 +92,6 @@ libegl1-mesa
 libibus-1.0-5
 libgl1-mesa-glx
 libqt5opengl5
-libreoffice-calc
-libreoffice-draw
-libreoffice-impress
-libreoffice-writer
-libreoffice-gtk3
-libreoffice-help-en-us
-libreoffice-l10n-zh-tw
 libnss-mdns
 libsmbclient
 libxcb-xtest0
